@@ -1,0 +1,7 @@
+variable,label,spread,use_for_chart_3
+Tenure,Tenure,0.2744659708902375,False
+typology,Housing typology,0.21824239030360582,True
+moved_label,Recent move status,0.16187467730134197,True
+senior_label,Senior presence,0.1450222562991622,True
+single_parent_label,Single-parent household,0.11820365500722951,True
+household_size_group,Household size,0.11717262402123085,True

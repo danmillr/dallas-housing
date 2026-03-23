@@ -1,0 +1,5 @@
+tenure_simple,ami_group,weighted_households
+Owner,At/Above 60% AMI,185121
+Renter,At/Above 60% AMI,151556
+Renter,Below 60% AMI,120974
+Owner,Below 60% AMI,62847
